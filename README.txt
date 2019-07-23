@@ -1,7 +1,7 @@
 README about TelegramBot
 
 1. The main functionality of TelegramBot - checkin and checkout of Rubizza SPB Students.
-2. Stack: PostgreSQL, Redis, Ruby, ROM, Telegram API
+2. Stack: Redis, Ruby, Telegram API
 3. Bot have geolocation check. If student isn't at Rubizza Camp - he won't checkin/checkout.
 4. All status key for Bot is storing in Redis
 5. Main commands: /start, /checkin, /checkout, /developer/status
